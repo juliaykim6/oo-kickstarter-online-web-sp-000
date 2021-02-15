@@ -1,4 +1,4 @@
-class Porject
+class Project
 
   attr_accessor :title
 
